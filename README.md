@@ -29,6 +29,8 @@ region-matcher/
 └── requirements.txt
 ```
 
+Download the model from [here](https://drive.google.com/file/d/1hXQDsA8CDp3IqS9_OSVVQtG_4anGgBSN/view?usp=sharing) and place it in models.
+
 ## Setup
 
 Python 3.10 or newer is recommended.
