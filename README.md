@@ -1,5 +1,8 @@
 # Region Matcher
 
+<img width="1024" height="275" alt="image" src="https://github.com/user-attachments/assets/ab6c468a-082a-48b6-bed1-6d6fff3cd193" />
+
+
 An installable package for running local inference with a trained region-matcher checkpoint. It matches a small query crop against one full image or every supported image in a directory, ranks the matches, writes JSON results, and saves a heatmap for the best match.
 
 ## Repository layout
