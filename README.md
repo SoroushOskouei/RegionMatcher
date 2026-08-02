@@ -143,13 +143,6 @@ outputs/match_results/
 | `--full-size` | checkpoint or `384` | Gallery input size |
 | `--query-size` | checkpoint or `192` | Query input size |
 
-## Tests
-
-```bash
-pytest
-ruff check .
-```
-
 ## Supported image formats
 
 `.jpg`, `.jpeg`, `.png`, `.bmp`, `.tif`, `.tiff`, and `.webp`.
