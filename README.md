@@ -1,6 +1,6 @@
 # Region Matcher
 
-A clean, installable package for running local inference with a trained region-matcher checkpoint. It matches a small query crop against one full image or every supported image in a directory, ranks the matches, writes JSON results, and saves a heatmap for the best match.
+An installable package for running local inference with a trained region-matcher checkpoint. It matches a small query crop against one full image or every supported image in a directory, ranks the matches, writes JSON results, and saves a heatmap for the best match.
 
 ## Repository layout
 
